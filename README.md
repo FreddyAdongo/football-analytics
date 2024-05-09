@@ -1,2 +1,2 @@
-# Football-Data-Viz
-Data visualization for football (soccer).
+# Sports Analytics
+Sports Analytics Projects
