@@ -1,2 +1,2 @@
-# Sports Analytics
-Sports Analytics Projects
+# Football Analytics
+football-analytics projects
