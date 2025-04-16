@@ -1,0 +1,26 @@
+Minute,Player,Squad,xG,Outcome,cumulative_xG,half
+5,Maddie Mercado,Reign,0.02,Off Target,0.02,1
+13,Madeline Dahlien,Reign,0.08,Saved,0.1,1
+15,Madeline Dahlien,Reign,0.03,Off Target,0.13,1
+18,Ji So-yun,Reign,0.14,Off Target,0.27,1
+32,Ryan Williams,Courage,0.04,Blocked,0.04,1
+35,Jess Fishlock,Reign,0.21,Goal,0.48,1
+45,Manaka Matsukubo,Courage,0.1,Off Target,0.14,1
+46,Jaedyn Shaw,Courage,0.06,Saved,0.2,1
+50,Ana-Maria Crnogorčević,Reign,0.36,Off Target,0.84,2
+54,Madeline Dahlien,Reign,0.04,Saved,0.88,2
+54,Madison Curry,Reign,0.03,Off Target,0.9099999999999999,2
+56,Jordyn Bugg,Reign,0.03,Goal,0.94,2
+57,Madeline Dahlien,Reign,0.07,Off Target,1.01,2
+59,Aline,Courage,0.17,Goal,0.37,2
+65,Jaedyn Shaw,Courage,0.02,Blocked,0.39,2
+76,Jaedyn Shaw,Courage,0.21,Blocked,0.6,2
+76,Madeline Dahlien,Reign,0.06,Saved,1.07,2
+76,Ji So-yun,Reign,0.09,Blocked,1.16,2
+85,Brianna Pinto,Courage,0.02,Blocked,0.62,2
+85,Shinomi Koyama,Courage,0.19,Saved,0.81,2
+86,Kaleigh Kurtz,Courage,0.02,Off Target,0.83,2
+88,Denise O'Sullivan,Courage,0.14,Saved,0.97,2
+92,Hannah Betfort,Courage,0.03,Saved,1.0,2
+92,Brianna Pinto,Courage,0.11,Off Target,1.11,2
+92,Hannah Betfort,Courage,0.2,Off Target,1.31,2
