@@ -1,2 +1,2 @@
 # Football Analytics
-football-analytics projects
+This contains all my football-analytics projects.
